@@ -1,5 +1,6 @@
 # ProjectManager
 ## Project architecture
+```
 .
 ├── DEBIAN
 │   └── control
@@ -11,7 +12,7 @@
         │   └── project_manager.desktop
         └── icons
             └── icon.png
-
+```
 ## Install
 - Download the .deb package
 - Use the following command to install the package : 
