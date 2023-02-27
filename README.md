@@ -20,3 +20,7 @@
 ```bash
 sudo dpkg -i projectManager.deb
 ```
+## Use
+```bash
+project_manager.sh
+```
