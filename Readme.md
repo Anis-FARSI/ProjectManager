@@ -22,5 +22,5 @@ sudo dpkg -i projectManager.deb
 ```
 ## Use
 ```bash
-project_manager.sh
+project_manager_src.sh
 ```
