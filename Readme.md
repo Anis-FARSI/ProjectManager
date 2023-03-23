@@ -1,7 +1,13 @@
 # ProjectManager
-## Project architecture
+
+# requirements:
+- nodejs
+- npm 
+- php
+- composer 
+
+## Architecture
 ```
-.
 ├── DEBIAN
 │   └── control
 └── usr
@@ -15,12 +21,11 @@
 ```
 ## Install
 - Download the .deb package
-- Use the following command to install the package : 
-
 ```bash
 sudo dpkg -i projectManager.deb
 ```
-## Use
+- Use the following command to install the package : 
+
 ```bash
 project_manager.sh
 ```
