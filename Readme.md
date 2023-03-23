@@ -22,7 +22,7 @@
 ## Install
 - Download the .deb package
 ```bash
-sudo dpkg -i projectManager.deb
+sudo dpkg -i projectManage_src.deb
 ```
 - Use the following command to install the package : 
 
