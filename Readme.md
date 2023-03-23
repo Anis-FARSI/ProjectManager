@@ -29,3 +29,8 @@ sudo dpkg -i projectManager.deb
 ```bash
 project_manager.sh
 ```
+
+## Uninstall
+```bash
+sudo apt-get remove project-manager 
+```
