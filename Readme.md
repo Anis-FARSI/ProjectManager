@@ -1,6 +1,6 @@
 # ProjectManager
 
-# requirements:
+## requirements:
 - nodejs
 - npm 
 - php
@@ -22,7 +22,7 @@
 ## Install
 - Download the .deb package
 ```bash
-sudo dpkg -i projectManage_src.deb
+sudo dpkg -i projectManager.deb
 ```
 - Use the following command to install the package : 
 
