@@ -18,9 +18,9 @@
 - Use the following command to install the package : 
 
 ```bash
-sudo dpkg -i projectManager.deb
+sudo dpkg -i projectManager_src.deb
 ```
 ## Use
 ```bash
-project_manager_src.sh
+project_manager.sh
 ```
